@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Meu primeiro projeto Html</title>
+	<style type="text/css">
+		h1{ color: blue;
+			font-family: arial;
+       		font-size: 40px;
+       		text-align: center; }
+
+       	p{ font-family: arial;
+           font-size: 16px;
+            }		
+
+
+
+
+
+	</style>
+</head>
+<body>
+	<h1>Quem ganha mais front-end ou back-end? Quais principais diferenças?</h1>
+
+<h2>O que é desenvolvimento front-end?</h2>
+
+<p>Desenvolvimento <stong>front-end</stong>é todo o desenvolvimento de uma aplicação que diz respeito à sua parte visível.</p>
+
+<p>Em outras palavras, podemos dizer que o programador ou programadora front-end é aquele responsável por toda a parte com a qual o usuário vai interagir, ou seja, o “rosto” do site, aplicativo ou software — sua interface.</p>
+
+
+<h2>O que é desenvolvimento back-end?</h2>
+
+<p>Desenvolvimento <strong>back-end</strong> é aquele voltado à estrutura de uma aplicação, sendo assim responsável por todo o seu funcionamento interior e invisível ao usuário final.</p>
+
+<p>O profissional back-end domina todas as conexões de uma interface com outros elementos importantes para a execução de suas ações, como bancos de dados e servidores.</p>
+<form action="#" method="get" target="_blank">
+	<label for="nome">Nome:</label><br> 
+	
+	<input type="text" id="nome"name="nome" placeholder="Insira o nome completo">
+
+</form>
+
+</body>
+</html>
